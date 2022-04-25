@@ -9,4 +9,4 @@ __Project Description:__ Web scraping project to gather data from WWII Casualtie
                         
 __Webscraped URL:__  WWII Casualties [URL: https://en.wikipedia.org/wiki/World_War_II_casualties ]
 
-__Collaborator:__ Taylor Sanderson (tmsanderson@my.waketech.edu)
+__Collaborator:__ Taylor Sanderson (tmsanderson@my.waketech.edu) - ACCEPTED
